@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/bb1a6c6f-1843-4d5e-ac65-4ebe05ec80e8/resourceGroups/RG_ZorAI/providers/Microsoft.Web/sites/bursiyermzvasistan",
+    "appService.deploySubpath": "."
+}
